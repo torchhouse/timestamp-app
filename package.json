@@ -9,6 +9,8 @@
   "author": "torchhouse",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.14.0"
+    "express": "^4.14.0",
+    "sugar": "^1.4.1",
+    "sugarjs": "^0.1.0"
   }
 }
